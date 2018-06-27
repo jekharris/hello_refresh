@@ -1,3 +1,3 @@
 # hello_refresh
 refreshing knowledge of basic usage
-adding new lines!
+adding 1 new lines!
